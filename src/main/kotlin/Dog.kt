@@ -1,9 +1,9 @@
 class Dog: Mammal {
     override fun isMammal(): String {
-        return "Its a mammal"
+        return "its a mammal"
     }
 
     override fun move(): String {
-        return "Walk"
+        return "walk"
     }
 }

@@ -1,13 +1,13 @@
 class Einstein: Human {
     fun alive(): String{
-        return "not alive"
+        return "not be alive"
     }
 
     override fun move(): String {
-        return "Walk"
+        return "walks"
     }
 
     override fun isMammal(): String {
-        return "Its a mammal"
+        return "its a mammal"
     }
 }

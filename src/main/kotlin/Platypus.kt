@@ -1,6 +1,6 @@
-class Playpus: Mammal, Oviparous {
+class Platypus: Mammal, Oviparous {
     override fun isMammal(): String {
-        return "Its a mammal"
+        return "its a mammal"
     }
 
     override fun isOviparous(): String {

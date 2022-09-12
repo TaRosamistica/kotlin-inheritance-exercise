@@ -1,6 +1,6 @@
 class Bird: Animal, Oviparous {
     override fun move(): String {
-        return "Fly"
+        return "fly"
     }
 
     override fun isOviparous(): String {
